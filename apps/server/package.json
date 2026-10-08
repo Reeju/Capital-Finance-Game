@@ -1,0 +1,21 @@
+{
+  "name": "@capital/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "start": "tsx src/main.ts"
+  },
+  "dependencies": {
+    "@capital/ai": "workspace:*",
+    "@capital/content": "workspace:*",
+    "@capital/engine": "workspace:*",
+    "@capital/protocol": "workspace:*",
+    "ws": "^8.22.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.18.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "seed": "golden-1",
+  "rulesVersion": "capital-1.1.0",
+  "contentVersion": "content-1.0.2",
+  "commands": 189,
+  "hash": "4c1e531b354df4bd7f322b60ea3e1ad5b1cc720d63b122fa62e788fb1ae19576",
+  "netWorth": [
+    219801750,
+    328278262,
+    366094290
+  ]
+}

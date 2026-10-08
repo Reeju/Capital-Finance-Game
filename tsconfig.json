@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": { "types": ["node"] },
+  "include": ["packages/*/src", "apps/server/src", "tools", "tests/multiplayer", "*.ts"]
+}

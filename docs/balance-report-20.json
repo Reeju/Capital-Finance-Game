@@ -1,0 +1,71 @@
+{
+  "matches": 1000,
+  "rounds": 20,
+  "seconds": 56.4,
+  "policies": {
+    "grace": {
+      "mixedLineupGames": 574,
+      "winRate": "4.0%",
+      "avgAdjustedUsd": 5672675,
+      "avgNetWorthCagr": "12.8%",
+      "restructureRate": "0.0%"
+    },
+    "alex": {
+      "mixedLineupGames": 573,
+      "winRate": "46.8%",
+      "avgAdjustedUsd": 7268035,
+      "avgNetWorthCagr": "14.1%",
+      "restructureRate": "0.2%"
+    },
+    "victor": {
+      "mixedLineupGames": 574,
+      "winRate": "74.0%",
+      "avgAdjustedUsd": 8011404,
+      "avgNetWorthCagr": "14.7%",
+      "restructureRate": "1.4%"
+    },
+    "cash": {
+      "mixedLineupGames": 143,
+      "winRate": "0.0%",
+      "avgAdjustedUsd": 790360,
+      "avgNetWorthCagr": "2.3%",
+      "restructureRate": "0.0%"
+    },
+    "stocks": {
+      "mixedLineupGames": 215,
+      "winRate": "0.0%",
+      "avgAdjustedUsd": 5043289,
+      "avgNetWorthCagr": "12.2%",
+      "restructureRate": "0.0%"
+    },
+    "property": {
+      "mixedLineupGames": 143,
+      "winRate": "0.0%",
+      "avgAdjustedUsd": 2102150,
+      "avgNetWorthCagr": "7.2%",
+      "restructureRate": "0.0%"
+    }
+  },
+  "mirrorSeatWinRate": [
+    "62.7%",
+    "13.0%",
+    "30.5%",
+    "5.6%"
+  ],
+  "stockPriceCagr": {
+    "p10": "4.9%",
+    "median": "8.3%",
+    "p90": "12.6%"
+  },
+  "playerRestructureRate": "0.4%",
+  "noActionTurnRate": "10.0%",
+  "runawayByRound4Rate": "0.0%",
+  "rejectedAiCommands": 0,
+  "priceCeilingHits": 661,
+  "priceFloorHits": 0,
+  "flags": [
+    "victor wins >60% (mixed lineups; not a fair-pairing proof)",
+    "661 final prices at the $1,000 ceiling",
+    "first seat wins 62.7% of mirror matches (2-4 seats mixed; fair share is between 25% and 50%)"
+  ]
+}

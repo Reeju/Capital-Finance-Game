@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "web", "runtimeExecutable": "pnpm", "runtimeArgs": ["--filter", "@capital/web", "dev", "--port", "5273", "--strictPort"], "port": 5273 },
+    { "name": "server", "runtimeExecutable": "pnpm", "runtimeArgs": ["--filter", "@capital/server", "start"], "port": 8787 }
+  ]
+}

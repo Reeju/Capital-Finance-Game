@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dev-dist/
+test-results/
+playwright-report/
+apps/server/data/
+.env
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.vercel
